@@ -1,0 +1,1 @@
+# GoH-Conquest-Save-Editor
